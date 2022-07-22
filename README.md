@@ -32,3 +32,5 @@ Reassuringly secure.
     
 Exceedingly scalable.
     Some of the busiest sites on the web leverage Django’s ability to quickly and flexibly scale.
+
+You can read more about Django here https://docs.djangoproject.com/en/4.0/
